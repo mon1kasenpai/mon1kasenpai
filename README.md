@@ -1,6 +1,7 @@
 <p>
 <div align="center">
-<h3>Hi! I'm Jodie! (she/they/xem)<h3>
+<h2>Hi! I'm Jodie! (pronouns: she/they/xem)<br>
+Chances are if you're here, you've probably heard of me via my work at spellbane interactive or my music under my own name or the name "Washington Hydro Plant."<h2>
 <p>
   
 <div align="center">
