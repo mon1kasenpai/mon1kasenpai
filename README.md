@@ -21,6 +21,8 @@ Chances are if you're here, you've probably heard of me via my work at spellbane
 <div align="center">
   <h3>Platforms i have worked on:</h3>
   <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Epic+Games&color=313131&logo=Epic+Games&logoColor=FFFFFF&label=">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Humble+Bundle&color=CC2929&logo=Humble+Bundle&logoColor=FFFFFF&label=">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
