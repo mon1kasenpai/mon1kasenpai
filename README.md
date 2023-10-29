@@ -16,8 +16,8 @@ Chances are if you're here, you've probably heard of me via my work at spellbane
   <img src="https://img.shields.io/badge/EOS-313131.svg?style=for-the-badge&logo=Epic%20Games&logoColor=white">
   <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
 </div>
-  
 </p>
+
 <div align="center">
   <h3>Platforms i have worked on:</h3>
   <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
