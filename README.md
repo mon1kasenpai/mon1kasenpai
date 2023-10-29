@@ -28,3 +28,6 @@ Chances are if you're here, you've probably heard of me via my work at spellbane
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
 </div>
 </p>
+
+<div align="center">
+  <h3>My setup:</h3>
