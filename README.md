@@ -39,4 +39,5 @@ Chances are if you're here, you've probably heard of me via my work at spellbane
   SSD: Samsung 970 Evo 500 GB<br/>
   HDDs: x2 Seagate 2TB BarraCuda 3.5" 7200RPM<br/>
   Keyboard: Ducky one 2 Skyline Cherry Red<br/>
+  Mouse: Logitech G502 Lightspeed<br/>
   
