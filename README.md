@@ -30,8 +30,8 @@ Chances are if you're here, you've probably heard of me via my work at spellbane
 </p>
 
 <div align="center">
-  <h3>My setup:</h3>
-  <h2>Main Rig:</h2>
+  <h2>My setup:</h2>
+  <h3>Main Rig:</h3>
   CPU: Intel I5 9600K @ 4.2ghz<br/>
   GPU: Asus DUAL OC GeForce GTX 1660 Ti 6 GB<br/>
   Motherboard: MSI Z390-A PRO<br/>
