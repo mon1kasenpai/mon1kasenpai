@@ -31,3 +31,10 @@ Chances are if you're here, you've probably heard of me via my work at spellbane
 
 <div align="center">
   <h3>My setup:</h3>
+  <h2>Main Rig:</h2>
+  CPU: Intel I5 9600K @ 4.2ghz<br/>
+  Motherboard: MSI Z390-A PRO<br/>
+  RAM: G.Skill Trident Z RGB 32 GB @ 3000mhz<br/>
+  SSD: Samsung 970 Evo 500 GB <br/>
+  HDDs: x2 Seagate 2TB BarraCuda 3.5" 7200RPM <br/>
+  
