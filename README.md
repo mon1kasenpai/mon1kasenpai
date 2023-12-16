@@ -32,12 +32,12 @@ Chances are if you're here, you've probably heard of me via my work at spellbane
 <div align="center">
   <h2>My setup:</h2>
   <h3>Main Rig:</h3>
-  CPU: Intel I5 9600K @ 4.2ghz<br/>
-  GPU: Asus DUAL OC GeForce GTX 1660 Ti 6 GB<br/>
-  Motherboard: MSI Z390-A PRO<br/>
-  RAM: G.Skill Trident Z RGB 32 GB @ 3000mhz<br/>
-  SSD: Samsung 970 Evo 500 GB<br/>
-  HDDs: x2 Seagate 2TB BarraCuda 3.5" 7200RPM<br/>
-  Keyboard: Ducky one 2 Skyline Cherry Red<br/>
-  Mouse: Logitech G502 Lightspeed<br/>
+  CPU: Intel I5 9600K @ 4.2ghz<br/><br/>
+  GPU: Asus DUAL OC GeForce GTX 1660 Ti 6 GB<br/><br/>
+  Motherboard: MSI Z390-A PRO<br/><br/>
+  RAM: G.Skill Trident Z RGB 32 GB @ 3000mhz<br/><br/>
+  SSD: Samsung 970 Evo 500 GB<br/><br/>
+  HDDs: x2 Seagate 2TB BarraCuda 3.5" 7200RPM<br/><br/>
+  Keyboard: Ducky one 2 Skyline Cherry Red\Logitech G710+ Cherry Brown<br/><br/>
+  Mouse: Logitech G502 Lightspeed<br/><br/>
   
