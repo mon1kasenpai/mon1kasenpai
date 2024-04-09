@@ -35,7 +35,7 @@ Chances are if you're here, you've probably heard of me via my work at spellbane
   <h2>My setup:</h2>
   <h3>Main Rig:</h3>
   CPU: Intel I5 9600K @ 4.2ghz<br/><br/>
-  GPU: Asus DUAL OC GeForce GTX 1660 Ti 6 GB<br/><br/>
+  GPU: MSI GeForce RTX 4060 Ventus 2X 8gb<br/><br/>
   Motherboard: MSI Z390-A PRO<br/><br/>
   RAM: G.Skill Trident Z RGB 32 GB @ 3000mhz<br/><br/>
   SSD: Samsung 970 Evo 500 GB<br/><br/>
