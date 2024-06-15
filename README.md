@@ -1,13 +1,13 @@
 <p>
 <div align="center">
 <h2>Hi! I'm Jodie! (pronouns: she/they/xem)<br><br>
-Chances are if you're here, you've probably heard of me via my work at Sakura Road or my music under my own name or the name "Washington Hydro Plant."<h2>
+Chances are if you're here, you've probably heard of me via my work at Sakura Road or under my own name or the name "Washington Hydro Plant."<h2>
 <p>
   
 <div align="center">
   <h3>Programs/languages i have worked with:</h3>
-  <img src="https://img.shields.io/badge/Unreal%20Engine%205-0E1128.svg?style=for-the-badge&logo=Unreal%20Engine&logoColor=white">
   <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine">
+  <img src="https://img.shields.io/badge/Unreal%20Engine%205-0E1128.svg?style=for-the-badge&logo=Unreal%20Engine&logoColor=white">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=000000&logo=Unity&logoColor=FFFFFF&label=">
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
