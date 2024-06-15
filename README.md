@@ -6,16 +6,18 @@ Chances are if you're here, you've probably heard of me via my work at Sakura Ro
   
 <div align="center">
   <h3>Programs/languages i have worked with:</h3>
+  <img src="https://img.shields.io/badge/Unreal%20Engine%205-0E1128.svg?style=for-the-badge&logo=Unreal%20Engine&logoColor=white">
+  <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=000000&logo=Unity&logoColor=FFFFFF&label=">
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
+  <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
+  <img src ="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
   <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
   <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">
-  <img src="https://img.shields.io/badge/Unreal%20Engine%205-0E1128.svg?style=for-the-badge&logo=Unreal%20Engine&logoColor=white">
-  <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=000000&logo=Unity&logoColor=FFFFFF&label=">
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
   <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white">
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Affinity&color=222324&logo=Affinity&logoColor=FFFFFF&label="
   <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
 </div>
@@ -40,11 +42,12 @@ Chances are if you're here, you've probably heard of me via my work at Sakura Ro
   GPU: MSI GeForce RTX 4060 Ventus 2X 8gb<br/><br/>
   Motherboard: MSI Z390-A PRO<br/><br/>
   RAM: G.Skill Trident Z RGB 32 GB @ 3000mhz<br/><br/>
-  SSD: Samsung 970 Evo 500 GB<br/><br/>
+  OS SSD: Samsung 970 Evo 500 GB<br/><br/>
   HDDs: x2 Seagate 2TB BarraCuda 3.5" 7200RPM<br/><br/>
   Keyboard: Ducky one 2 Skyline\Ducky One 2 Mini (both cherry red)<br/><br/>
   Mouse: Logitech G502 Lightspeed<br/><br/>
-
-  <h2>My Laptop<h2>
-
-  
+  <h3>My Laptop<h3>
+  CPU: AMD Ryzen 7 4800H <br/><br/>
+  GPU: Nvdia GTX 1650 TI<br/><br/>
+  OS SSD: Crucial 1tb m.2 SSD<br/><br/>
+  Second SSD: Crucial 1tb 2.5" SSD<br/><br/>
