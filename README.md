@@ -44,12 +44,12 @@ Chances are if you're here, you've probably heard of me via my work at Sakura Ro
   GPU: MSI GeForce RTX 4060 Ventus 2X 8gb<br/><br/>
   Motherboard: MSI Z390-A PRO<br/><br/>
   RAM: G.Skill Trident Z RGB 32 GB @ 3000mhz<br/><br/>
-  OS SSD: Samsung 970 Evo 500 GB<br/><br/>
+  OS SSD: Samsung 970 Evo 1 TB<br/><br/>
   HDDs: x2 Seagate 2TB BarraCuda 3.5" 7200RPM<br/><br/>
   Keyboard: Ducky one 2 Skyline\Ducky One 2 Mini (both cherry red)<br/><br/>
   Mouse: Logitech G502 Lightspeed<br/><br/>
   <h3>My Laptop<h3>
-  CPU: AMD Ryzen 7 4800H <br/><br/>
-  GPU: Nvdia GTX 1650 TI<br/><br/>
-  OS SSD: Crucial 1tb m.2 SSD<br/><br/>
-  Second SSD: Crucial 1tb 2.5" SSD<br/><br/>
+  Model: Macbook Pro 2020 <br/><br/>
+  CPU: Apple M1 <br/><br/>
+  RAN: 16gb <br/><br/>
+
