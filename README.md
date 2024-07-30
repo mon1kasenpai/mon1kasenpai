@@ -51,5 +51,5 @@ Chances are if you're here, you've probably heard of me via my work at Sakura Ro
   <h3>My Laptop<h3>
   Model: Macbook Pro 2020 <br/><br/>
   CPU: Apple M1 <br/><br/>
-  RAN: 16gb <br/><br/>
+  RAM: 16gb <br/><br/>
 
