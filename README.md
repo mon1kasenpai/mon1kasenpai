@@ -47,7 +47,7 @@ Chances are if you're here, you've probably heard of me via my work at Sakura Ro
   OS SSD: Samsung 970 Evo 1 TB<br/><br/>
   HDDs: x2 Seagate 2TB BarraCuda 3.5" 7200RPM<br/><br/>
   Keyboard: Ducky one 2 Skyline\Ducky One 2 Mini (both cherry red)<br/><br/>
-  Mouse: Logitech G502 Lightspeed<br/><br/>
+  Mouse: Logitech G Pro Wireless<br/><br/>
   <h3>My Laptop<h3>
   Model: Macbook Pro 2020 <br/><br/>
   CPU: Apple M1 <br/><br/>
