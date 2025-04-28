@@ -40,14 +40,8 @@ Chances are if you're here, you've probably heard of me via my work at Sakura Ro
 <div align="center">
   <h2>My setup:</h2>
   <h3>Main Rig:</h3>
-  CPU: Intel I5 9600K @ 4.2ghz<br/><br/>
-  GPU: MSI GeForce RTX 4060 Ventus 2X 8gb<br/><br/>
-  Motherboard: MSI Z390-A PRO<br/><br/>
-  RAM: G.Skill Trident Z RGB 32 GB @ 3000mhz<br/><br/>
-  OS SSD: Samsung 970 Evo 1 TB<br/><br/>
-  HDDs: x2 Seagate 2TB BarraCuda 3.5" 7200RPM<br/><br/>
-  Keyboard: Ducky one 2 Skyline\Ducky One 2 Mini (both cherry red)<br/><br/>
-  Mouse: Logitech G Pro Wireless<br/><br/>
+  i gotta update this lol
+  <br/><br/>
   <h3>My Laptop<h3>
   Model: Macbook Pro 2020 <br/><br/>
   CPU: Apple M1 <br/><br/>
