@@ -41,6 +41,9 @@ Chances are if you're here, you've probably heard of me via my work at Sakura Ro
   <h2>My setup:</h2>
   <h3>Main Rig:</h3>
   i gotta update this lol<br/><br/>
+  CPU: Ryzen 7 9700x 8C/16T <br/><br/>
+  RAM: 32gb DDR5 @ 6000MHz<br/><br/>
+  GPU: 4060 8gb<br/><br/>
   OS: Dual boot Windows 11/Linux Mint
   <br/><br/>
   <h3>My Laptop<h3>
