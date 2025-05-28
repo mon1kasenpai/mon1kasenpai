@@ -37,6 +37,9 @@ Chances are if you're here, you've probably heard of me via my work at Sakura Ro
 </div>
 </p>
 
+![](https://raw.githubusercontent.com/mon1kasenpai/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mon1kasenpai/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
 <div align="center">
   <h2>My setup:</h2>
   <h3>Main Rig:</h3>
