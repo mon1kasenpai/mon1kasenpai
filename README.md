@@ -40,10 +40,14 @@ Chances are if you're here, you've probably heard of me via my work at Sakura Ro
 <div align="center">
   <h2>My setup:</h2>
   <h3>Main Rig:</h3>
-  i gotta update this lol
+  i gotta update this lol<br/><br/>
+  OS: Dual boot Windows 11/Linux Mint
   <br/><br/>
   <h3>My Laptop<h3>
   Model: Macbook Pro 2020 <br/><br/>
   CPU: Apple M1 <br/><br/>
-  RAM: 16gb <br/><br/>
+  RAM: 16gb 
+  <br/><br/>
+  + a 512gb OLED Steam Deck for testing and the like lol
+    
 
