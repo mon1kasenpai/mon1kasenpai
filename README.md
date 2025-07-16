@@ -44,9 +44,12 @@ Chances are if you're here, you've probably heard of me via my work at Sakura Ro
 
 <div align="center">
   <h2>My setup:</h2>
+  Keyboard: Keychron Q1 Max w/ Gateron Jupiter Banana Switches<br/><br/>
+  Mouse: Logitech G Pro Wireless
+  <br/><br/>
   <h3>Main Rig:</h3>
   i gotta update this lol<br/><br/>
-  CPU: Ryzen 7 9700x 8C/16T <br/><br/>
+  CPU: Ryzen 7 9700x 8C/16T<br/><br/>
   RAM: 32gb DDR5 @ 6000MHz<br/><br/>
   GPU: 4060 8gb<br/><br/>
   OS: Dual boot Windows 11/Linux Mint
